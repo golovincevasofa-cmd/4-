@@ -11,7 +11,7 @@ int factorial(int n) {
 }
 
 
-// Задача 2.1:
+// Задача 2.2:
 void f1(int n) {
     printf("%d ", n);
     if (n > 1) {
